@@ -3,3 +3,5 @@
 node -v
 
 npm - v
+
+npm
