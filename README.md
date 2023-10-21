@@ -1,7 +1,9 @@
-# Doc_NODE
+#DOC_CMD_AND_NODE
 
-node -v
+node -v:
 
-npm - v
+npm - v:
 
-npm
+npm:
+
+
